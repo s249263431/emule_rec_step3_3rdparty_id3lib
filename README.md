@@ -1,0 +1,2 @@
+# emule_recompilation_step3_3rdparty_id3lib
+id3lib是一个开源，跨平台的开发库，用来读/写/删mp3的ID3v1和ID3v2标签。
